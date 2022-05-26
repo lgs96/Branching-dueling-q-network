@@ -1,1 +1,1 @@
-# Branching-q-network
+# Branching-dueling-q-network
